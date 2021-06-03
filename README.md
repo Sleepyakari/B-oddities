@@ -1,7 +1,7 @@
 # B-oddities
 ---
 
-A repo for the occasional programs that are written in B for some reason; like a masochistic urge.
+A repo for the occasional programs that are written in B for some reason; like a masochistic urge.\
 Binaries will be provided in the respective folders along with the source code.
 <br />
 
